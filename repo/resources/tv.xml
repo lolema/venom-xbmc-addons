@@ -1,1049 +1,999 @@
 
-<item><title>Tf1 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1380.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>France 2 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1381.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>France 3 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1382.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>France 4 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1383.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>France 5 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1384.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>France O 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1385.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>D8 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1402.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>M6 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1386.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>W9 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1387.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Nrj 12 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1389.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>France 24 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2944.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Tv5 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/129.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Bfm 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1398.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Euronews 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/131.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Arte 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1390.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>6Ter 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1391.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Serie Club 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/120.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Piwi 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/153.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Disney XD 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/146.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Game One 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/145.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Gulli 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1388.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal J 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/152.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Disney Cinemagic 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/150.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Disney Junior 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/151.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Teletoon 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/148.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Tiji 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/147.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Zouzou TV HD 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/141.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Planet A&E HD 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/123.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Planet+ Ci 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/133.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Planet+ 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/132.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Lci 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2586.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Lcp 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2585.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Science et Vie 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/140.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Voyage HD 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/139.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Syfy 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/115.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Teva 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/111.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Itele 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1392.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Manga 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/149.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Animaux 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/138.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>National Geographic 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1423.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>National Geo Wild 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/134.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Discovery 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1422.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Discovery Science 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/135.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Equidia 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/109.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Equidia Live 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/112.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ab 1 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/128.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Chasse et Peche 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/137.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Numero 23 - France
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1393.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Comedie 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/130.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Paris Premiere 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/114.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Infosport Plus 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/142.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Tmc 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1401.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Histoire HD 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/126.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Paramount Channel 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/110.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Action 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/119.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Rtl 9 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/121.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ushuaia 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/136.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ol TV 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/124.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Rmc Decoverte 24 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1394.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Eurosport 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1418.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Eurosport 2 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/144.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Bein Sport 1 HD 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1419.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Bein Sport 2 HD 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1420.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Bein Sport 3 HD 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1421.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Bfm Sport  FR
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2916.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Sfr Sport 1 FR
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2912.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Sfr Sport 2 FR
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2913.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Sfr Sport 3 FR
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2914.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Sfr Sport 5 FR
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2915.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Nrj Hits FR
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2917.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Foot+ 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/143.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Foot 24 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/127.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>13 Eme Rue 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/113.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal Plus FR
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/2918.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal+ 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1404.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal+ Serie 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/117.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal+ Family 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1406.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal+ Decale 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/116.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal+ Cinema 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1405.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal+ Sport 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1407.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine+ Frisson 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1410.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine+ Classic 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1411.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine+ Famiz 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/118.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine+ Polar 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1413.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine+ Emotion 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1412.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ocs Max 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1414.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ocs City 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1415.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ocs Choc 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1417.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ocs Geants 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1416.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Hd 1 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1396.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Nt 1 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1400.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>L Equipe 21 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1395.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ici 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1403.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>D17 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1397.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine+ Premiere 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1408.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine+ Club 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1409.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cherie 25 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1399.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Tcm 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/122.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Boomerang 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3037.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal 8 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3015.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal News 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3041.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cartoon Network 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3036.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine FX 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3021.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cstar 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3016.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>E! Entertainment 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3018.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Elle Girl 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3019.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Extreme Sports 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3023.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>France Info 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3040.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Golf Channel 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3025.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Golf+ 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3026.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Mcm 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3032.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Mcm Top 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3033.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Mezzo 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3034.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Mezzo Live 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3035.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Mtv 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3029.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Nickelodeon Junior 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3039.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Season 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3028.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Trace Sport 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3024.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Trace Urban 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3030.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Trek 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3027.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>TV Breizh 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3017.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Vivolta 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3020.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Nickelodeon 
-</title><link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/3038.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | BEIN SPORT 1
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12716.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | BEIN SPORT 2
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12715.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | BEIN SPORT 3
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12714.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | SFR SPORT 1
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12747.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | SFR SPORT 2
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12748.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | SFR SPORT 3
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12749.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | INFO SPORT+
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12745.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | FOOT+ 24
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12771.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | EUROSPORT 1
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12746.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | FRANCE O
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12727.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | FRANCE 2
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12731.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | FRANCE 3
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12732.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | FRANCE 4
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12733.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | FRANCE 5
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12734.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | 6 TER
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12786.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | M6
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12736.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | D8
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12729.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | C8
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12784.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | W9
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12787.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | RTL9
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12740.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | NRJ 12
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12737.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | C STAR
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12785.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | HD1
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12770.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | LA UNE
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12752.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | 13EME RUE
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12710.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | CANAL+ SERIES
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12758.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | CANAL+ FAMILY
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12755.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | CANAL+ CINEMA
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12719.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | PARIS PREMIERE
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12756.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | PARAMOUNT CHANNEL
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12728.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | COMEDIE+
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12765.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | ACTION
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12712.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | SERIE CLUB
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12741.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | CLUB RTL
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12783.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | TMC
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12772.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | SYFY
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12743.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | POLAR
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12738.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | NT1
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12788.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | NUMERO 23
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12726.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | PLUG RTL
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12776.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | PIWI+
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12781.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | GULLI
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12782.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | TELETOON+
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12780.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | BOOMERANG
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12779.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | BOING
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12778.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | DISNEY JUNIOR
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12767.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | DISNEY CHANNEL
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12766.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | CARTOON NETWORK
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12759.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | CANAL J
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12751.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | TIJI
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12777.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | ARTE
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12775.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | RTS UN
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12720.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | RTS DEUX
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12718.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | TF1
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12768.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | ANIMAUX
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12713.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | MANGAS
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12717.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | AB MOTEURS
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12711.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | PLANETE+ A&E
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12754.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | PLANETE+ CRIME INVEST
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12750.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | PLANETE+
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12753.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | NAT GEO
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12722.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | NAT GEO WILD
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12721.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | DISCOVERY CHANNEL
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12730.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | SCIENCE & VIE
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12723.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | RMC DECOUVERTE
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12725.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | CHESSE ET PACHE
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12724.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | SEASONS
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12760.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR | VOYAGE
-</title><link>plugin://plugin.video.f4mTester/?url=http://163.172.107.21:8080/live/wi22N3idG7/qFjVZEhtk8/12761.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR : Paris Premiere HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2274.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR :TV Breizh
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2270.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>  SEASON HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/4310.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> 13eme Rue
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3720.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> 6TER
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3721.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> AB Moteurs
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3724.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> AB1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3722.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> AB3
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3723.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Action
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3830.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Animaux
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3725.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Arte
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3726.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Bein Sport 1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3727.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Bein Sport 2
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3728.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> BFMTV
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3729.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Boing
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3730.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Boomerang
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3828.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> C8
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3731.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal J
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3732.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CanalPlus
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3733.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CanalPlus Cinema
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3734.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CanalPlus Decale
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3735.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CanalPlus Famiz
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3736.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CanalPlus Series
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3737.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CanalPlus Sport
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3738.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cartoon Network
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3739.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Chasse e Peche
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3740.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cherie 25
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3741.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine FX
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3742.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CinePlus Classic
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3743.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CinePlus Emotion
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3744.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CinePlus Frisson
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3745.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CinePlus Premier
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3746.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> ComediePlus
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3747.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CStar
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3748.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> D17
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3749.ts&amp;streamtype=TSDOWNLOADER</link>
 <item><title> D8
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2278.ts&amp;streamtype=TSDOWNLOADER</link>
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3750.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Discovery
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3751.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Discovery Science
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3752.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Disney Channel
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3753.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Disney Cine Magic
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3754.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Disney Cinema
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3827.ts&amp;streamtype=TSDOWNLOADER</link>
 <item><title> Disney Junior
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2273.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title> PARAMOUNT
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2275.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title> TELETOON
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2272.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>13 EME RUE HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6018.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>13 Rue
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2276.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>6TER HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2277.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>AB 1
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6027.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>ABMOTEURS
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/385.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>AFRICA24
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/364.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>ALJAZENG
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/384.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>BeinMax4
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/392.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>BeinMax5
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/393.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>BeinMaX6
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/394.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>BeinMax7
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/395.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>BFMHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/365.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal _HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/396.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal _Series_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/397.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>canal +
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6006.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL FAMILYHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/401.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL-DECALEHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/400.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL-SPORT-HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/399.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+ACCION_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2166.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+AXN_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2174.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal+Comedia
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2167.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+DCINE.HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2171.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+DEPORTES_2.HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2170.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+DEPORTES_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2169.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+LIGA
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2168.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+XTRA.HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2173.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANALE_5.HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2172.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CHERIE25HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/382.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine Emotion HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6021.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine FRISSON
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6020.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine Premier
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6019.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CLUBBING
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/381.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CNNI.NTERNATIONAL
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/380.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>D17
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6005.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>DIRECT8
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/379.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>DIRECTSTAR
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/378.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Discovery HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6004.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>DISNEY.CHANELLE
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/377.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>DISNEY.CHANELLE 1
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/376.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>EQUIDIALIFE
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/375.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>EQUIDIALIVE
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/374.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>EURONEWSFR
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/373.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Eurosport 2
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6012.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>foot 24/24
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6007.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCE 2 HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/372.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCE 3 HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/369.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCE 4 HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/368.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCE 5 HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/367.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCE24
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/371.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCE24ENG
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/370.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCEO
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/363.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>GAMEONEL
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/366.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>GULLI
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/359.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>LCP
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/358.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>LEQUIPE21.HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/383.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>M6
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/362.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>MCM
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/357.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>NAT GEO
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6010.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Nat Geo Wild
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6009.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>NRJ12
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/356.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>NT1
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/355.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ocs Choc
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6025.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ocs City
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6011.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ocs Max
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6022.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Orang City
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6016.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Orang Geant
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6013.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Orang Max
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6015.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Planet  A&E
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2271.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Planete  C.I HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6008.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>RTL9
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/360.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>SFR_SPORT1
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/389.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>SFR_SPORT2
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/390.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>SFR_SPORT3
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/391.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Syfy
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/6017.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>TEVA
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/353.ts&amp;streamtype=TSDOWNLOADER</link>
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3755.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> E! Entertainment
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3756.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Enorme
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3757.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Equidia Life
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3758.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Equidia Live
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3759.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Equipe 21
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3760.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Euronews
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3761.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Eurosport 1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3762.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Eurosport 2
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3763.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Foot Plus
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3764.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 2
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3765.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 24
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3768.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 3
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3766.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 4
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3767.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France O
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3769.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Game One
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3770.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Gulli
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3771.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> HD1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3772.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> InfosportPlus
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3774.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> iTele
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3773.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> KTO
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3775.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> La Une
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3776.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> LCi
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3777.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> LCP
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3778.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> M6
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3780.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> M6 Music
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3779.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Mangas
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3781.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Movies 1 FR
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3782.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Movies 2 FR
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3783.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Movies 3 FR
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3784.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Movies 4 FR
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3785.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Movies 5 FR
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3786.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Movies 6 FR
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3787.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Movies 7 FR
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3788.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Nat Geo Wild
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3789.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> National Geographic
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3790.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Nickelodeon
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3791.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Nickelodeon Junior
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3792.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> NRJ 12
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3793.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> NT1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3794.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Numero 23
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3795.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> OCS City
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3796.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> OCS Geants
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3797.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> OCS Max
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3798.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> OM5
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3799.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Paramount Channel
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3826.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Paris Premiere
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3800.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Piwi
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3829.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> PlanetePlus
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3801.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> PlanetePlus A&E
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3802.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> PlanetePlus CI
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3803.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> RMC Decouverte
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3804.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> RTL 9
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3805.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> RTS Deux
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3806.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> RTS Un
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3807.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Science et Vie TV
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3809.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Seasons
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3808.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Syfy
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3810.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TCM
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3811.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TeleToonPlus
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3812.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TEVA
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3813.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TF1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3814.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Tiji
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3815.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TMC
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3817.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Toute L Historie
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3825.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Trek
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3816.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TV Breizh
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3824.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TV5 Monde
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3818.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Ushuaia TV
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3819.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> VH1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3820.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Voyage TV
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3821.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> W9
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3822.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Weo
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3823.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Zouzous
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/3831.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>  Cine horreur HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5415.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> 13eme Rue HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5393.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 1 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5468.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 11 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5477.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 12 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5478.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 13 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5479.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 14 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5480.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 15 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5481.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 16 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5482.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 17 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5483.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 18 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5484.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 19 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5485.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 2 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5469.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 3 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5470.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 4 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5471.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 5 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5472.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 6 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5473.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 7 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5474.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 8 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5475.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A LA CARTE 9 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5476.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> AB1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5382.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Action
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5395.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Animaux
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5491.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Arte
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5490.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> beiN Sport 1 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5373.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> beiN Sport 2 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5374.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> beiN Sport 3 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5375.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Boing HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5436.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Boomerang HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5435.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> BoxOffice 1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5449.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> BoxOffice 2
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5450.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> BoxOffice 3
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5451.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal  Cinema HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5399.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal  Decale HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5401.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL  FAMILY HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5400.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal  HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5396.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal  Series HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5402.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal  Sport
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5372.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal J
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5425.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5452.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 10
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5462.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 11
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5463.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 12
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5464.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 13
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5465.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 14
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5466.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 15
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5467.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 2
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5454.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 3
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5455.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 4
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5456.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 5
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5457.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 6
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5458.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 7
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5459.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 8
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5460.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANAL PLAY 9
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5461.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal Plus Sport HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5501.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal Series HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5398.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CANALPLAY-2
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5453.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cartoon Network HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5434.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Chasse & Peche
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5496.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> CHERIE 25
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5500.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cin?© Plus Emotion HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5416.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine  Classic HD.
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5408.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine  Club HD.
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5407.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine  Emotion HD.
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5405.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine  Famiz HD.
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5406.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine  Frisson HD.
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5404.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine  FX HD.
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5410.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine  Polar HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5411.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine  Premier HD.
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5403.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine  Star HD.
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5409.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine Frisson
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5413.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> DISCOVERY HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5498.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Disney Channel
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5421.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Disney Cinema HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5422.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Disney Junior HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5433.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Disney XD HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5432.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> EuroNews
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5277.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Euronews fr
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5387.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Foot   24 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5502.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 2 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5377.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 24 News
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5386.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 3 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5378.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 4 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5379.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 5 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5380.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France O
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5376.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Gulli
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5431.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> HD1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5499.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> HISTOIRE
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5497.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> iTele
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5381.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> La Tele X
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5389.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> M6 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5486.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> M6 Music
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5489.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Mangas
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5430.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> MegaBox 1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5440.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> MegaBox 2
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5441.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> MegaBox 3
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5442.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> MegaBox 4
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5443.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> MegaBox 5
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5444.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> MegaBox 6
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5445.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> MegaBox 7
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5446.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> MegaBox 8
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5447.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> MegaBox 9
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5448.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Nat Geo HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5360.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> National Geo
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5495.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> National Geo Wild
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5494.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Nickelodeon
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5429.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Nickelodeon Junior
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5428.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Nrj12
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5488.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> NT1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5487.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> OCS CHOC HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5420.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> OCS CITY HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5419.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> OCS GEANTS HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5418.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> OCS MAX HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5417.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> PARAMOUNT CHANNEL HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5392.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Paris Premiere HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5397.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Piwi
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5423.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Planete-A-and-E-HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5493.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Planete-HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5492.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> RMC Decouverte
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5388.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> RTS LA DEUX HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5391.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> RTS LA UN HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5390.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> SFR CINE A LA DEMANDE 1
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5437.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> SFR CINE A LA DEMANDE 2
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5438.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> SFR CINE A LA DEMANDE 3
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5439.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TeleToon
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5427.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TF1 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5383.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TIJI
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5426.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TMC
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5394.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TV 5 Monde
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5385.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> W9 Music
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5384.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> ZOUZOU TV (petite)
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5424.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Cine Action HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5414.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Cine Comedie HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://vip.groupiptv.com:7000/live/robstec/robstec/5412.ts&amp;streamtype=TSDOWNLOADER</link>
 <item><title>TF1
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/361.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>TMC
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/354.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Voyage
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/2268.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>W9
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/352.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRE:CANAL-CINEMAHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/3030/3030/398.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TF1_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/207.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_FRANCE_2_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/208.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_FRANCE_3_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/209.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_FRANCE_4_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/820.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_FRANCE_5_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/210.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_FRANCE_O
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/228.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_M6_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/216.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_W9_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/224.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TEVA_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/870.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL+_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/201.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL+_FAMILY_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/204.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL+_DECALE_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/203.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL+_CINEMA_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/202.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL+_SERIES_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/868.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE_CLASSIC_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/869.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE+_PREMIER_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/878.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE+_FRISSON_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/877.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE_EMOTION_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/884.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE+_FAMIZ_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/876.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE_POLAR
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/950.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE_FX
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/826.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_COMEDIE+
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/872.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_B_SPORTS_1_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/199.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_B_SPORTS_2_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/200.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_B_SPORTS_3_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/594.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>LOW_B_SPORTS_1_HD_FR
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1196.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>LOW_B_SPORTS_2_HD_FR
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1133.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>LOW_B_SPORTS_3_HD_FR
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1267.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL+_SPORT_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/205.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_INFOSPORT+
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/879.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_FOOT+_24
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/883.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_EUROSPORT_1
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/206.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_EUROSPORT_2
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1256.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_SFR_SPORT_1_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/112.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_SFR_SPORT_2_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/846.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_SFR_SPORT_3_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/723.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_B_SPORT_MAX_4
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1269.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_B_SPORT_MAX_5
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1268.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_B_SPORT_MAX_6
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/233.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_B_SPORT_MAX_7
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/232.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_B_SPORT_MAX_8
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1232.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_L_EQUIPE_21
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/102.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_AB_MOTEUR_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1195.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_AB1
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/862.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_AB3_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/80.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_DISNEY_JUNIOR
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/853.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_DISNEY_CHANNEL
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/236.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_DISNEY_XD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/52.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_DISNEY_CINEMA
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/901.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL_J_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/198.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CARTOON_NETWORK_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/218.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TELETOON+1
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/827.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_NICKELODEON_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/881.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_GULLI
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/212.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TIJI
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/235.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_PIWI
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1221.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_BOOMERANG_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/867.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_BOING
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/897.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_MANGAS
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/5254.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_NRJ
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/220.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_NRJ_12
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1282.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CHERIE_25
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/169.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_HISTOIRE_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1178.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TOUTE_L_HISTOIRE
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/880.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_SCIENCES_VIE_TV
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1220.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_USHUAIA_TV_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/223.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_RMC_DECOUVERTE
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/83.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_VOYAGE_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/84.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_PLANETE_AE_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/230.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_PLANETE+_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/221.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_PLANETE+_CI
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/222.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CHASSE_ET_PECHE
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/860.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_ANIMAUX_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/865.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_NATIONAL_GEO_WILD_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/217.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_NATIONAL_GEO_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/239.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_DISCOVERY
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/882.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_DISCOVERY_SCIENCES_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/76.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_Seasons_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/5255.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_PARAMOUNT_CHANNEL_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1194.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_PARIS_PREMIERE_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/181.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TV5_FR
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/168.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TV5_MONDE
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1218.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_FRANCE_24
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/67.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_ARTE_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/866.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_I_TELE
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/213.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_EURO_NEWS
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/864.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_E_ENTERTAINMENT
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/871.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_BFM_TV
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/211.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_BET
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/231.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_SYFY_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/95.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_6TER HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1814.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_RTL_TVI
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/167.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_RTL_9_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/845.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_RTS_LA_UNE_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/124.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_RTS_LA_DEUX_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/121.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_SERIE_CLUB_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/225.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_13EME_RUE_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/214.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_NUMERO_23_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/171.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_EQUIDIA_LIVE
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/170.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_C_STAR
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/819.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_C8_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/234.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_OCS_GEANTS
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/903.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_OCS_CHOC_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/959.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_OCS_CITY
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/698.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_OCS_MAX
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/902.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_ACTION
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/863.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_WEO
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1217.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_OL_TV
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/844.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TMC
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1219.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_M6_MUSIC
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/160.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_MTV_HITS
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/103.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_MTV_DANCE_FR
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/85.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TV_BREIZH_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/145.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_NT1
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/949.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_LCI
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1227.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_HD_1
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/861.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL_PLAY_1
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1266.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL_PLAY_2
-</title><link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/dona/dona/1265.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>6TER HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/2277.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>AB 1
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6027.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>ABMOTEURS
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/385.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>AFRICA24
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/364.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>ALJAZENG
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/384.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>BeinMax4
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/392.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>BeinMax5
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/393.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>BeinMaX6
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/394.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>BeinMax7
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/395.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>BFMHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/365.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal _HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/396.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal _Series_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/397.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>canal +
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6006.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL FAMILYHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/401.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL-DECALEHD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/400.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL-SPORT-HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/399.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+ACCION_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/2166.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+AXN_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/2174.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Canal+Comedia
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/2167.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+DCINE.HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/2171.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+DEPORTES_2.HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/2170.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+DEPORTES_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/2169.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+LIGA
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/2168.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANAL+XTRA.HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/2173.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CANALE_5.HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/2172.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CHERIE25HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/382.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine Emotion HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6021.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine FRISSON
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6020.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Cine Premier
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6019.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CLUBBING
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/381.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>CNNI.NTERNATIONAL
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/380.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>D17
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6005.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>DIRECT8
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/379.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>DIRECTSTAR
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/378.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Discovery HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6004.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>DISNEY.CHANELLE
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/377.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>DISNEY.CHANELLE 1
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/376.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>EQUIDIALIFE
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/375.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>EQUIDIALIVE
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/374.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>EURONEWSFR
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/373.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Eurosport 2
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6012.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>foot 24/24
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6007.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCE 2 HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/372.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCE 3 HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/369.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCE 4 HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/368.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCE 5 HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/367.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCE24
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/371.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCE24ENG
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/370.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FRANCEO
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/363.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>GAMEONEL
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/366.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>GULLI
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/359.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>LCP
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/358.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>LEQUIPE21.HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/383.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>M6
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/362.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>MCM
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/357.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>NAT GEO
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6010.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Nat Geo Wild
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6009.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>NRJ12
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/356.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>NT1
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/355.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ocs Choc
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6025.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ocs City
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6011.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Ocs Max
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6022.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Orang City
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6016.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Orang Geant
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6013.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Orang Max
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6015.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Planet  A&E
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/2271.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Planete  C.I HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6008.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>RTL9
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/360.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>SFR_SPORT1
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/389.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>SFR_SPORT2
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/390.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>SFR_SPORT3
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/391.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Syfy
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/6017.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>TEVA
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/353.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>TF1
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/361.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>TMC
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/354.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>Voyage
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/2268.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>W9
-</title><link>plugin://plugin.video.f4mTester/?url=http://we-you-iptv.tv:8000/live/2020/2020/352.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TF1
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/200.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_M6
+<item><title>M6
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/201.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_FRANCE2
+<item><title>FRANCE2
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/202.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_FRANCE3
+<item><title>FRANCE3
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/203.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_FRANCE4
+<item><title>FRANCE4
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/204.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_FRANCE5
+<item><title>FRANCE5
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/205.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_FRANCE_O
+<item><title>FRANCE_O
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/206.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_C8
+<item><title>C8
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/210.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CStar
+<item><title>CStar
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/211.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_HD1
+<item><title>HD1
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/209.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_NT1
+<item><title>NT1
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/207.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_6TER_HD
+<item><title>6TER_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/208.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_W9
+<item><title>W9
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/212.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TMC
+<item><title>TMC
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/274.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_ARTE
+<item><title>ARTE
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/215.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_RTL9_HD
+<item><title>RTL9_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/213.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_AB1_HD
+<item><title>AB1_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/214.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_Cherie25HD
+<item><title>Cherie25HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/291.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_Teva_HD
+<item><title>Teva_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/269.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TV_BREIZH
+<item><title>TV_BREIZH
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/216.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_13eme_Rue
+<item><title>13eme_Rue
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/273.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_PARIS_PREMIERE_HD
+<item><title>PARIS_PREMIERE_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/271.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_NRJ12
+<item><title>NRJ12
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/290.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_BFM_TV
+<item><title>BFM_TV
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/218.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_I-Tele
+<item><title>I-Tele
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/217.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_Euronews_FR
+<item><title>Euronews_FR
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/220.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL_HD
+<item><title>CANAL_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/226.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL_DECALE_HD
+<item><title>CANAL_DECALE_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/229.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL_CINEMA_HD
+<item><title>CANAL_CINEMA_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/230.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL_SPORT_HD
+<item><title>CANAL_SPORT_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/227.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL_FAMILY_HD
+<item><title>CANAL_FAMILY_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/228.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CANAL_SERIE_HD
+<item><title>CANAL_SERIE_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/231.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE_PREMIER
+<item><title>CINE_PREMIER
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/232.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE_EMOTION
+<item><title>CINE_EMOTION
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/235.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE_FAMIZ
+<item><title>CINE_FAMIZ
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/234.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE_FRISSON
+<item><title>CINE_FRISSON
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/233.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE_CLASSIC
+<item><title>CINE_CLASSIC
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/236.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_Cine_Club
+<item><title>Cine_Club
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/237.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINEFX
+<item><title>CINEFX
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/239.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_CINE_POLAR_HD
+<item><title>CINE_POLAR_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/238.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_OCS_CHOC_HD
+<item><title>OCS_CHOC_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/244.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_OCS_City
+<item><title>OCS_City
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/243.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_OCS_Geants_HD
+<item><title>OCS_Geants_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/242.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_OCS_MAX
+<item><title>OCS_MAX
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/241.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_Action_HD
+<item><title>Action_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/240.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_COMEDIE_HD
+<item><title>COMEDIE_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/268.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_SERIE_CLUB
+<item><title>SERIE_CLUB
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/267.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_PARAMOUNT_CHANNEL_HD
+<item><title>PARAMOUNT_CHANNEL_HD
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/272.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_E!_Entertainement
+<item><title>E!_Entertainement
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/265.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_TCM_CINEMA
+<item><title>TCM_CINEMA
 </title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/275.ts&amp;streamtype=TSDOWNLOADER</link>
-<item><title>FR_Syfy_HD
-</title><link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/korisnik/korisnik/270.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>M6HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/262.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>TF1HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/263.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>France2HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/282.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>France3HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/283.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>France4HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/353.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>France5HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/354.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>FranceOHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/355.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>RTL9
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1524.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>HD1
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1517.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>D8HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/277.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>D17
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1615.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>W9
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1614.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Teva HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/3697.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>E!
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/3691.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>NT1
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/366.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>6TER
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/365.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>13eme.Rue
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/278.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>BFMtv
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/3696.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>ITele
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/212.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>MTV_FRANCE
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/3704.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>MTV BASE
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/3693.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>MCM POP
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/3703.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>MTV dance
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/3694.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>SFR1
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/753.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>SFR2
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/754.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>SFR3
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/919.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>InfoSport+
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/284.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>FOOT24
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/264.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>EuroSport1
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/360.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>EuroSport2
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/361.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Canal+
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/213.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>CANAL+.FAMILY.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/196.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>CANAL+.CINEMA
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/200.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Canal+Serie
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/214.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Canal+.Decaler
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/203.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>CANAL+.Sport
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/204.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Cine.Polar
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1518.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Cine.Famiz
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/210.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Cine.Frisson
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/205.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>CINE.EMOTION HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1618.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Cine.Classic
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/211.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>CINE+.PREMIER
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1616.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>BoomeRang
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/281.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>SYFY
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1609.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>NRJ12
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1514.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>M6.Music
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1515.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>L'EQUIPE21
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1516.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>TVBreish
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/275.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Serie.Club
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/357.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Nicklodeon4Teen
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/279.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>SEASONS
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1525.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>PlanetHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/270.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>TOUTE.L'HISTOIRE
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1611.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>NationalGeo
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/285.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Animaux
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/356.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>VoyageTV
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/268.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>USHUAIATV
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/269.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Equida.live
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/3762.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>PLANETE.CI.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1527.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>PLANETE.A&E
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1528.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Discovery.Sience
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/363.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>DISCOVERY.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/3739.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>RMC.DECOVERTE.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1526.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Science & Vie_TV
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/3706.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Chasse et Pêche
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/3705.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.HISTOIRE.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1248.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>NUMERO.23
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1529.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.MANGAS.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1252.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.GAME.ONE.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1256.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.BOING.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1258.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>CSTAR
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/364.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>TMC-HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1612.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>TCM
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1617.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>PARAMOUNT.CHANNEL
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1619.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>National-Geo-Wild
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1610.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>CHERIE25
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1613.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>TeleToonHD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/276.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Ocs.Geant
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/358.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Ocs.City
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/359.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Ocs-Max
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1608.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>Ocs-Choc
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1607.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.RTS.UN.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1262.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.RTS.DEUX.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1263.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>SEASON.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1249.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.TIJI.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1261.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.PIWI.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1260.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.CANAL.J.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1257.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.NICKELODEON.JUNIOR.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1250.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.NICKELODEON.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1251.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.DISNEY.XD.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1255.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.DISNEY.CINEMA.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1254.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>DISNEY.JUNIOR
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/286.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>DISNEY.CHANNEL
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/362.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>.CARTOON.NETWORK.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1253.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title>FR.GULLI.HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://gtv.tn:8000/live/testt/testt/1259.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> SFR Sport 1
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/381.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> SFR Sport 2
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/382.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> SFR Sport 3
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/383.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> OL tv
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/373.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Foot+ 24
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/351.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> InfoSport+
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/353.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal+ Sport
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/350.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Ma Chaine Sport (MCS) HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/352.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A la Carte 1
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/305.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A la Carte 2
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/307.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A la Carte 3
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/320.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A la Carte 4
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/325.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A la Carte 5
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/363.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A la Carte 6
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/362.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A la Carte 7
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/361.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A la Carte 8
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/360.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A la Carte 9
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/359.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> A la Carte 10
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/358.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal+ Cinema
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/314.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal+ Family
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/306.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine+ Emotion
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/310.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal+ Serie
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/317.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal+ Decale
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/315.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine+ Classic
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/308.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine+ Premier
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/313.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine+ Frisson
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/311.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine+ Famiz
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/312.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal +
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/328.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canal J
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/290.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine Polar
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/374.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine FX
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/379.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cine Comédie+HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/380.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> S?©rie Club HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/331.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> SCIENCES & VIE
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/354.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Paris Premiere HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/377.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> OCS Max HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/341.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> OCS Choc HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/345.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> OCS G?©ants HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/337.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Voyage TV
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/304.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TF1 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/285.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> I-Tele
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/340.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> RMC Decouverte
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/336.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> E entertainment
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/372.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TV5 Monde
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/333.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TVBreish
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/309.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> C 8
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/316.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> C Star
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/338.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> 13 rue HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/347.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Boing
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/295.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> T?©va HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/330.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Syfy HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/348.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Weo TV
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/319.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Action HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/335.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> RTL 9 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/334.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Animaux HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/303.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Planete AE+C
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/327.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Plan?¨te + HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/326.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> NatIional Geo HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/324.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Discovery Science HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/323.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Boomerang
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/321.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Disney Cinemagic
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/322.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Disney Channel
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/342.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Teletoon+
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/318.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> M6 HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/291.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 0
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/301.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 2
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/300.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 3
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/299.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 4
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/298.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 5
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/297.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> France 24
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/349.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> TCM HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/296.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> NT1
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/293.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Nrj 12
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/294.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> 6Ter HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/292.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Manga
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/343.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Ushuaia TV HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/329.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Rts Un
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/289.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Gulli
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/286.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Music MFM TV
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/368.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Toute l Histoire
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/332.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> BFM Business
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/344.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Assemble Nationale
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/369.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Numero 23
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/302.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cherie 25
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/288.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> W9
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/357.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Arte
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/287.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> LCi
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/346.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Rire TV
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/375.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Lequipe 21
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/370.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> HD 1
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/371.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Enorme TV
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/367.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Alsace20
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/376.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> AB1
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/378.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> RTS Deux
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/339.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cinema 1
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/396.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cinema 2
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/395.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Cinema Kids
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/392.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Een HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/730.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Canvas HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/731.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> VTM HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/389.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Vitaya
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/390.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Vijf
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/391.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Plug RTL
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/384.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> La télé X
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/385.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Club RTL
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/386.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Acht
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/388.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> 2BE HD
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/387.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> Kadet
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/393.ts&amp;streamtype=TSDOWNLOADER</link>
+<item><title> BX1
+</title><link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/V5dwnpt8iS/2vis7Nqnpl/394.ts&amp;streamtype=TSDOWNLOADER</link>
